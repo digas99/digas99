@@ -1,14 +1,13 @@
 ### Hi there 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/digas99/)
+![](https://komarev.com/ghpvc/?username=digas99&style=flat&color=blue)
+
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=digas99&count_private=true&show_icons=true&theme=github_dark" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digas99&theme=github_dark&layout=compact"/>
 </div>
 
-<br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/digas99/)
-![](https://komarev.com/ghpvc/?username=digas99&style=flat&color=blue)
 <!--
 **digas99/digas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
