@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/digas99/)
-![](https://komarev.com/ghpvc/?username=digas99&style=flat&color=blue)
 
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=digas99&count_private=true&show_icons=true&theme=github_dark" width="420"/>
