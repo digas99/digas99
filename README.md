@@ -7,6 +7,23 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digas99&theme=github_dark&layout=compact"/>
 </div>
 
+## Projects for University Subjects:
+
+- [AAD (Arquiteturas de Alto Desempenho)](https://github.com/digas99/aad-projects)
+- [CM (Comunicações Móveis)](https://github.com/digas99/cm-project-wlan2)
+- [AS (Análise de Sistemas)](https://github.com/digas99/as-project)
+- [IIA (Introdução à Inteligência Artificial)](https://github.com/digas99/iia-project-sokoban)
+- [RC I (Redes de Comunicações I)](https://github.com/digas99/rc1-project)
+- [SIO (Segurança Informática e nas Organizações)](https://github.com/digas99/sio-project-1)
+- [LFA (Liguagens Formais e Autómatos)](https://github.com/digas99/lfa-project-geometrics)
+- [MPEI (Métodos Probabilísticos para Engenharia Informática)](https://github.com/digas99/mpei-project-library-management)
+
+## Exercises for University Subjects:
+
+- [LFA (Liguagens Formais e Autómatos)](https://github.com/digas99/lfa-exercicios)
+- [AC II (Arquitetura de Computadores II)](https://github.com/digas99/ac2-exercicios)
+- [AC I (Arquitetura de Computadores I)](https://github.com/digas99/ac1-exercicios)
+
 <!--
 **digas99/digas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
