@@ -1,11 +1,17 @@
-### Hi there 👋
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/digas99/)
-
 <div>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=digas99&count_private=true&show_icons=true&theme=github_dark" width="420"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digas99&theme=github_dark&layout=compact"/>
 </div>
+
+## Vê o teu horário da Universidade de Aveiro no browser!
+
+### Schedua - Browser Extension
+
+[Download](https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml)
+|
+[Repository](https://github.com/digas99/schedule-ua)
+
+[<img src="https://i.imgur.com/cMPSILs.jpg" width="250" />](https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml)
 
 ## Projects for University Subjects:
 
@@ -23,6 +29,12 @@
 - [LFA (Liguagens Formais e Autómatos)](https://github.com/digas99/lfa-exercicios)
 - [AC II (Arquitetura de Computadores II)](https://github.com/digas99/ac2-exercicios)
 - [AC I (Arquitetura de Computadores I)](https://github.com/digas99/ac1-exercicios)
+
+
+
+Diogo Costa Correia - Student at Universidade de Aveiro
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/digas99/)
 
 <!--
 **digas99/digas99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
