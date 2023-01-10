@@ -7,7 +7,7 @@
 
 ### Schedua - Browser Extension
 
-[Download](https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml)
+[Install](https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml)
 |
 [Repository](https://github.com/digas99/schedule-ua)
 
