@@ -7,13 +7,25 @@
 
 ### Schedua - Browser Extension
 
+<a href="https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml">
+  <p float="left">
+    <img src="https://i.imgur.com/5OubrtP.jpg" width="300">
+    <img src="https://i.imgur.com/3jyQ7Mr.jpg" width="300">
+  </p>
+</a>
+  
+<p float="left">
+  <a href="https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml"><img alt="Install" src="https://i.imgur.com/DLLL4Wv.png" width="36"></a>
+  &nbsp;
+  <a href="https://github.com/digas99/schedule-ua">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/IGZVddp.png">
+      <img alt="Repository" src="https://i.imgur.com/E2HqhYS.png" width="32">
+    </picture>
+  </a>
+</p>
+
 ![users](https://img.shields.io/chrome-web-store/users/hdidghpdffhhefdafcajajjocjbmbnml?color=3fa7ca)
-
-<img src="https://i.imgur.com/cMPSILs.jpg" width="250" />
-
-[Install](https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml)
-|
-[Repository](https://github.com/digas99/schedule-ua)
 
 ## Projects for University Subjects:
 
