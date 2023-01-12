@@ -9,7 +9,7 @@
 
 ![users](https://img.shields.io/chrome-web-store/users/hdidghpdffhhefdafcajajjocjbmbnml?color=3fa7ca)
 
-[<img src="https://i.imgur.com/cMPSILs.jpg" width="250" />](https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml)
+<img src="https://i.imgur.com/cMPSILs.jpg" width="250" />
 
 [Install](https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml)
 |
