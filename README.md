@@ -9,18 +9,18 @@
 
 <a href="https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml">
   <p float="left">
-    <img src="https://i.imgur.com/5OubrtP.jpg" width="300">
-    <img src="https://i.imgur.com/3jyQ7Mr.jpg" width="300">
+    <img src="images/picture1.jpg" width="300">
+    <img src="images/picture2.jpg" width="300">
   </p>
 </a>
   
 <p float="left">
-  <a href="https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml"><img alt="Install" src="https://i.imgur.com/DLLL4Wv.png" width="36"></a>
+  <a href="https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml"><img alt="Install" src="images/Google_Chrome_Web_Store_icon_2015.svg.png" width="36"></a>
   &nbsp;
   <a href="https://github.com/digas99/schedule-ua">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://i.imgur.com/IGZVddp.png">
-      <img alt="Repository" src="https://i.imgur.com/E2HqhYS.png" width="32">
+      <source media="(prefers-color-scheme: dark)" srcset="images/github-mark-white.png">
+      <img alt="Repository" src="images/github-mark.png" width="32">
     </picture>
   </a>
 </p>
