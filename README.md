@@ -25,7 +25,7 @@
   </a>
 </p>
 
-![users](https://img.shields.io/chrome-web-store/users/hdidghpdffhhefdafcajajjocjbmbnml?color=3fa7ca)
+![users](https://img.shields.io/chrome-web-store/users/hdidghpdffhhefdafcajajjocjbmbnml?color=3fa7ca&label=Chrome%20Users)
 
 ## Projects for University Subjects:
 
