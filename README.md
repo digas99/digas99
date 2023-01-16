@@ -1,6 +1,6 @@
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=digas99&count_private=true&show_icons=true&theme=github_dark" width="420"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=digas99&theme=github_dark&layout=compact"/>
+  <img align="left" src="https://github-readme-stats-mu-gules.vercel.app/api?username=digas99&count_private=true&show_icons=true&theme=github_dark" width="420"/>
+  <img src="https://github-readme-stats-mu-gules.vercel.app/api/top-langs/?username=digas99&theme=github_dark&layout=compact"/>
 </div>
 
 ## Vê o teu horário da Universidade de Aveiro no browser!
