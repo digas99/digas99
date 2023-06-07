@@ -29,6 +29,7 @@
 
 ## Projects for University Subjects:
 
+- [ASE (Arquiteturas para Sistemas Embutidos)](https://github.com/digas99/ase-project)
 - [AAD (Arquiteturas de Alto Desempenho)](https://github.com/digas99/aad-projects)
 - [CM (Comunicações Móveis)](https://github.com/digas99/cm-project-wlan2)
 - [AS (Análise de Sistemas)](https://github.com/digas99/as-project)
