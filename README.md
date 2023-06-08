@@ -29,6 +29,7 @@
 
 ## Projects for University Subjects:
 
+- [SD (Sistemas Distribuídos)](https://github.com/digas99/sd-project1)[[1]](https://github.com/digas99/sd-project1)[[2]](https://github.com/digas99/sd-project2)[[3]](https://github.com/digas99/sd-project3)
 - [ASE (Arquiteturas para Sistemas Embutidos)](https://github.com/digas99/ase-project)
 - [AAD (Arquiteturas de Alto Desempenho)](https://github.com/digas99/aad-projects)
 - [CM (Comunicações Móveis)](https://github.com/digas99/cm-project-wlan2)
