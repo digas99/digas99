@@ -31,6 +31,7 @@
 
 - [SD (Sistemas Distribuídos)](https://github.com/digas99/sd-project1)[[1]](https://github.com/digas99/sd-project1)[[2]](https://github.com/digas99/sd-project2)[[3]](https://github.com/digas99/sd-project3)
 - [ASE (Arquiteturas para Sistemas Embutidos)](https://github.com/digas99/ase-project)
+- [SRC (Segurança em Redes de Comunicações)](https://github.com/paulogil93/ua-mect-src/tree/main/Report_1)[[1]](https://github.com/paulogil93/ua-mect-src/tree/main/Report_1)[[2]](https://github.com/paulogil93/ua-mect-src/tree/main/Report_2)
 - [AAD (Arquiteturas de Alto Desempenho)](https://github.com/digas99/aad-projects)
 - [CM (Comunicações Móveis)](https://github.com/digas99/cm-project-wlan2)
 - [AS (Análise de Sistemas)](https://github.com/digas99/as-project)
