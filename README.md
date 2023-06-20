@@ -3,30 +3,6 @@
   <img src="https://github-readme-stats-mu-gules.vercel.app/api/top-langs/?username=digas99&theme=github_dark&layout=compact"/>
 </div>
 
-## Vê o teu horário da Universidade de Aveiro no browser!
-
-### Schedua - Browser Extension
-
-<a href="https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml">
-  <p float="left">
-    <img src="images/picture1.jpg" width="300">
-    <img src="images/picture2.jpg" width="300">
-  </p>
-</a>
-  
-<p float="left">
-  <a href="https://chrome.google.com/webstore/detail/schedua/hdidghpdffhhefdafcajajjocjbmbnml"><img alt="Install" src="images/Google_Chrome_Web_Store_icon_2015.svg.png" width="36"></a>
-  &nbsp;
-  <a href="https://github.com/digas99/schedule-ua">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="images/github-mark-white.png">
-      <img alt="Repository" src="images/github-mark.png" width="32">
-    </picture>
-  </a>
-</p>
-
-![users](https://img.shields.io/chrome-web-store/users/hdidghpdffhhefdafcajajjocjbmbnml?color=3fa7ca&label=Chrome%20Users)
-
 ## Projects for University Subjects:
 
 - [SD (Sistemas Distribuídos)](https://github.com/digas99/sd-project1)[[1]](https://github.com/digas99/sd-project1)[[2]](https://github.com/digas99/sd-project2)[[3]](https://github.com/digas99/sd-project3)
