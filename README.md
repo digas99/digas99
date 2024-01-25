@@ -3,8 +3,11 @@
   <img src="https://github-readme-stats-mu-gules.vercel.app/api/top-langs/?username=digas99&theme=github_dark&layout=compact"/>
 </div>
 
-## Projects for University Subjects:
+## Projects and Exercises for University Subjects:
 
+<details>
+  <summary>Show projects</summary>
+  
 - [SD (Sistemas Distribuídos)](https://github.com/digas99/sd-project1)[[1]](https://github.com/digas99/sd-project1)[[2]](https://github.com/digas99/sd-project2)[[3]](https://github.com/digas99/sd-project3)
 - [ASE (Arquiteturas para Sistemas Embutidos)](https://github.com/digas99/ase-project)
 - [SRC (Segurança em Redes de Comunicações)](https://github.com/paulogil93/ua-mect-src/tree/main/Report_1)[[1]](https://github.com/paulogil93/ua-mect-src/tree/main/Report_1)[[2]](https://github.com/paulogil93/ua-mect-src/tree/main/Report_2)
@@ -17,13 +20,18 @@
 - [LFA (Liguagens Formais e Autómatos)](https://github.com/digas99/lfa-project-geometrics)
 - [MPEI (Métodos Probabilísticos para Engenharia Informática)](https://github.com/digas99/mpei-project-library-management)
 
-## Exercises for University Subjects:
+</details>
+
+<details>
+  <summary>Show exercises</summary>
 
 - [LFA (Liguagens Formais e Autómatos)](https://github.com/digas99/lfa-exercicios)
 - [AC II (Arquitetura de Computadores II)](https://github.com/digas99/ac2-exercicios)
 - [AC I (Arquitetura de Computadores I)](https://github.com/digas99/ac1-exercicios)
 
+</details>
 
+<br>
 
 Diogo Costa Correia - Student at Universidade de Aveiro
 
