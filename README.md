@@ -8,6 +8,7 @@
 <details>
   <summary>Show projects</summary>
 
+- [RSA (Redes e Sistemas Autónomos)](https://github.com/digas99/rsa-project)
 - [EGS (Engenharia e Gestão de Serviços)](https://github.com/orgs/NucleUS-EGS/repositories)
 - [TPR (Técnicas de Perceção de Redes)](https://github.com/digas99/tpr-project) 
 - [SD (Sistemas Distribuídos)](https://github.com/digas99/sd-project1)[[1]](https://github.com/digas99/sd-project1)[[2]](https://github.com/digas99/sd-project2)[[3]](https://github.com/digas99/sd-project3)
