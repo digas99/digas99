@@ -36,7 +36,7 @@
 
 <br>
 
-Diogo Costa Correia - Student at Universidade de Aveiro
+Diogo Costa Correia
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/digas99/)
 
